@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1367211f08379744082641473cff8aa0, type: 3}
+  m_Name: Settings Installer
+  m_EditorClassIdentifier: 
+  _audioMixer: {fileID: 24100000, guid: d0252f4ac70c75140b3ac9ac5d80edc4, type: 2}
+  _masterAudioMixerGroup: {fileID: 24300002, guid: d0252f4ac70c75140b3ac9ac5d80edc4,
+    type: 2}
+  _musicAudioMixerGroup: {fileID: -7159403641457674016, guid: d0252f4ac70c75140b3ac9ac5d80edc4,
+    type: 2}
+  _sfxAudioMixerGroup: {fileID: -2605501443974875746, guid: d0252f4ac70c75140b3ac9ac5d80edc4,
+    type: 2}
+  _masterVolumeAudioMixerParamName: MasterVolume
+  _musicVolumeAudioMixerParamName: MusicVolume
+  _sfxVolumeAudioMixerParamName: SoundsVolume
+  _minVolumeDb: -80
+  _maxVolumeDb: 20
+  _initialVolumeDb: 0

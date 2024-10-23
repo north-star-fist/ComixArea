@@ -1,0 +1,34 @@
+{
+    "name": "MenuByEsc",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "a4fc23df-7a32-4c74-9e29-5838c5a4a4ee",
+            "actions": [
+                {
+                    "name": "ToggleMenu",
+                    "type": "Button",
+                    "id": "bc60fd8e-5b13-4727-8881-ae8f2efee232",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "508fdac2-7178-41ad-affa-649736a84a40",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToggleMenu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
