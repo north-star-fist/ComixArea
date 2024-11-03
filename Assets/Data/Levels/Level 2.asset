@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Level 2
   m_EditorClassIdentifier: 
   <LevelScene>k__BackingField:
-    m_AssetGUID: 2ef9f1de8a3811f4f95d8008aed47383
+    m_AssetGUID: 4b70de3762004ad42a253c22525f1d25
     m_SubObjectName: 
     m_SubObjectType: 
-    m_EditorAssetChanged: 1
+    m_EditorAssetChanged: 0
   <Characters>k__BackingField: {fileID: 11400000, guid: 986ef1a24b4e17b48a95a6989c51703e,
     type: 2}
